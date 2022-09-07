@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* murach
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* murach.email
