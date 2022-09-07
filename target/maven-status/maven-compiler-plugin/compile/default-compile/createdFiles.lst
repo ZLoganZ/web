@@ -1,6 +1,0 @@
-murach\business\User.class
-murach\util\MailUtilLocal.class
-murach\email\EmailListServlet.class
-murach\util\MailUtilGmail.class
-murach\data\UserDB.class
-murach\util\MailUtilYahoo.class
