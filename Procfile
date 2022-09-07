@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/emailList-1.0.jar
+web: java $JAVA_OPTS -jar target/emailList-1.0.jar --port $PORT /target/*.war
