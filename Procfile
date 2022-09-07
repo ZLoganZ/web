@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.example.helloworld.HelloWorldApplication server config.yml
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* murach.email.EmailListServlet
