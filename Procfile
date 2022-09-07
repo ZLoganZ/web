@@ -1,1 +1,1 @@
-web:     bundle exec rails server -p $PORT -e $RACK_ENV
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.example.helloworld.HelloWorldApplication server config.yml
